@@ -13,4 +13,3 @@ for byte in bytearray(string, "utf8"):
             playsound("sounds/beep.mp3")
         else:
             playsound("sounds/boop.mp3")  
-
