@@ -16,6 +16,7 @@ try:
                     playsound("sounds/beep.mp3")
                 else:
                     playsound("sounds/boop.mp3")  
+
 except:
     raise Exception
     input("")
